@@ -11,9 +11,6 @@ Persistant data with local storage <br />
 Asynchronous events handling <br />
 Performance improvement with lazy loading <br />
 
-## Website 
-https://the-fit-club.pages.dev/
-
 ## Technologies used 
 **Design**: *Css & Styled Components*<br />
 **Backend**: *NodeJs* <br />
@@ -52,7 +49,7 @@ https://the-fit-club.pages.dev/
 
 </details>
 
-## Disclamer ❗️
+## Disclamer
 Made some changes to it or added other content, but the code is not completely original
 You can find the source of this code via: https://www.patreon.com/zainkeepscode
 
