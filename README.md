@@ -14,7 +14,7 @@ Performance improvement with lazy loading <br />
 ## Website 
 https://the-fit-club.pages.dev/
 
-## Technologies used 🛠️
+## Technologies used 
 **Design**: *Css & Styled Components*<br />
 **Backend**: *NodeJs* <br />
 **Libraries**: <br />
@@ -25,7 +25,7 @@ https://the-fit-club.pages.dev/
     - **redux-persist**: storing data in local storage <br />
     - **concurrently**: for running multiple scripts concurrently <br />
 
-## Usage 📋
+## Usage 
 <details open>
 <summary>Server Setup</summary>
 
@@ -53,15 +53,6 @@ https://the-fit-club.pages.dev/
 </details>
 
 ## Disclamer ❗️
-A word of disclaimer, I may have made some changes to it or added other content, but the code is not completely original!
-I am simply a student passionate about Front-end and the intersection of code and design, I always try to do courses and projects during my free time, so I must warn you that this code is NOT ORIGINAL.
-
+Made some changes to it or added other content, but the code is not completely original
 You can find the source of this code via: https://www.patreon.com/zainkeepscode
-
-## Contributing 💡
-Pull request are welcome but please open an issue and discuss what you will do before 😊
-
-## Like this project? 💖
-
-If you are feeling generous, buy me a coffee! - https://www.buymeacoffee.com/lunagao
 
