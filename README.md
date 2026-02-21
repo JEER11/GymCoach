@@ -1,27 +1,17 @@
-## Gym Website 🎯
+## Gym Website
 
-React responsive Gym Website using ReactJs 
-
-![Language count](https://img.shields.io/github/languages/count/letnagao/gym-website?color=green)
-![Top language](https://img.shields.io/github/languages/top/letnagao/gym-website?color=ff69b4)
-![Repo size](https://img.shields.io/github/repo-size/letnagao/gym-website?color=yellow)
-![Commit Activity](https://img.shields.io/github/commit-activity/y/letnagao/gym-website?color=blue)
-![Latest commit](https://img.shields.io/github/last-commit/letnagao/gym-website?color=red)
-[![GitHub watchers](https://img.shields.io/github/watchers/letnagao/gym-website?logo=GitHub)](https://github.com/letnagao/gym-website/watchers)
-![Maintained](https://img.shields.io/maintenance/yes/9999)
-
-</ul><h2> Preview ⚡️</h2>
+</ul><h2> Preview </h2>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/99754900/178131437-4b89e398-f451-46b5-b40e-a5fa2275166c.jpg" />
+<img width="1841" height="1073" alt="image" src="https://github.com/user-attachments/assets/4c02b15f-739a-4b81-9ae2-ea624602c70d" />
 </p>
 
-## Features 🔥
-✔️ Registration and Authentication with email <br />
-✔️ Persistant data with local storage <br />
-✔️ Asynchronous events handling <br />
-✔️ Performance improvement with lazy loading <br />
+## Features 
+Registration and Authentication with email <br />
+Persistant data with local storage <br />
+Asynchronous events handling <br />
+Performance improvement with lazy loading <br />
 
-## Website 💻
+## Website 
 https://the-fit-club.pages.dev/
 
 ## Technologies used 🛠️
