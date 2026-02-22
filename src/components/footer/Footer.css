@@ -4,32 +4,39 @@
 
 .Footer-container > hr {
     border: 1px solid var(--lightgray);
+    margin: 0;
+    position: relative;
+    z-index: 1;
 }
 
+/* position the footer items at the bottom-right and overlap the hr */
 .footer {
+    position: absolute;
+    top: 0;
+    right: 2rem;
     display: flex;
-    align-items: center;
-    justify-content: center;
     flex-direction: column;
-    padding: 1rem 2rem;
-    height: 20rem;
-    gap: 4rem;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.25rem;
+    z-index: 2;
+    transform: translateY(-80%);
 }
 
 .social-links {
     display: flex;
-    gap: 4rem;
+    flex-direction: column;
+    gap: 0.75rem;
+    align-items: center;
 }
 
 .social-links > img {
-    width: 2rem;
-    height: 2rem;
+    width: 2.2rem;
+    height: 2.2rem;
     cursor: pointer;
 }
 
-.logo-f > img {
-    width: 10rem
-}
+/* logo removed — kept styles removed to avoid unused rules */
 
 .blur-f-1 {
     bottom: 0;
