@@ -1,6 +1,4 @@
-## Gym Website
-
-</ul><h2> Preview </h2>
+</ul><h2> Gymnastic AI Coach Website </h2>
 <p align="center">
 <img width="1841" height="1073" alt="image" src="https://github.com/user-attachments/assets/4c02b15f-739a-4b81-9ae2-ea624602c70d" />
 </p>
