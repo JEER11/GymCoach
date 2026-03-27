@@ -1,6 +1,6 @@
 import React from 'react'
-import './Footer.css'
-import Github from '../../assets/github.png';
+import '../App.css'
+import Github from '../assets/github.png';
 // Instagram and LinkedIn removed per design
 
 const Footer = () => {

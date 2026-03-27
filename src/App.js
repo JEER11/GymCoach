@@ -1,7 +1,7 @@
 import './App.css';
-import Footer from './components/footer/Footer';
-import HeroSection from './components/hero-section/HeroSection';
-import Programs from './components/programs/Programs';
+import Footer from './components/Footer';
+import HeroSection from './components/HeroSection';
+import Programs from './components/Programs';
 
 function App() {
   return (

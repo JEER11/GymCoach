@@ -1,8 +1,8 @@
 import React from 'react';
-import {programsData} from '../../data/programsData';
-import RightArrow from '../../assets/rightArrow.png';
+import {programsData} from '../data/programsData';
+import RightArrow from '../assets/rightArrow.png';
 
-import './Programs.css';
+import '../App.css';
 
 const Programs = () => {
   return (

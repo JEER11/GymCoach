@@ -1,7 +1,7 @@
 import React from 'react'
-import Header from '../header/Header'
+import Header from './Header'
 // hero images removed per design
-import './HeroSection.css'
+import '../App.css'
 
 import {motion} from 'framer-motion'
 

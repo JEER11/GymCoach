@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
-import Logo from '../../assets/logo.png';
-import Bars from '../../assets/bars.png';
+import Logo from '../assets/logo.png';
+import Bars from '../assets/bars.png';
 import { Link } from 'react-scroll';
-import './Header.css';
+import '../App.css';
 
 const Header = () => {
   const mobile = window.innerWidth <= 768 ? true : false;
@@ -51,7 +51,6 @@ const Header = () => {
                 Programs
               </Link>
             </li>
-            
           </ul>
         )}
     </div>
