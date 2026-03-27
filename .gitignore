@@ -24,3 +24,5 @@ yarn-error.log*
 
 # Ignore docs folder (instructions/notes not part of source)
 docs/
+# Ignore local requirements file
+requirements.txt
