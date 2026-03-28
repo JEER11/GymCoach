@@ -1,0 +1,12 @@
+{
+  "FineGym_project_page": "https://github.com/SDOlivia/FineGym",
+  "finegym_annotation_info_v1.1.json": "https://sdolivia.github.io/FineGym/resources/dataset/finegym_annotation_info_v1.1.json",
+  "Gym99_train_element_v1.1.txt": "https://sdolivia.github.io/FineGym/resources/dataset/gym99_train_element_v1.1.txt",
+  "Gym99_val_element.txt": "https://sdolivia.github.io/FineGym/resources/dataset/gym99_val_element.txt",
+  "Gym288_train_element_v1.1.txt": "https://sdolivia.github.io/FineGym/resources/dataset/gym288_train_element_v1.1.txt",
+  "Gym288_val_element.txt": "https://sdolivia.github.io/FineGym/resources/dataset/gym288_val_element.txt",
+  "gym530_categories.txt": "https://sdolivia.github.io/FineGym/resources/dataset/gym530_categories.txt",
+  "set_categories.txt": "https://sdolivia.github.io/FineGym/resources/dataset/set_categories.txt",
+  "glabel_to_Qtree.json": "https://sdolivia.github.io/FineGym/resources/dataset/finegym_glabel_to_Qtree.json",
+  "preextracted_features_repo": "https://github.com/SDOlivia/FineGym/tree/master/preextracted_features"
+}
